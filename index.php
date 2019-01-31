@@ -14,7 +14,8 @@ and open the template in the editor.
         echo "esto es una prueba 1";
         echo "esto es una prueba 2";
         echo "Primer COMMIT";
-
+        echo "esto es una prueba 4";
+        echo "esto es una prueba 5";
         ?>
     </body>
 </html>

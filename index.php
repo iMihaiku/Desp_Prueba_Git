@@ -16,6 +16,9 @@ and open the template in the editor.
         echo "Primer COMMIT";
         echo "esto es una prueba 4";
         echo "esto es una prueba 5";
+        echo "Segundo COMMIT";
+        echo "esto es una prueba 6";
+        echo "esto es una prueba 7";
         ?>
     </body>
 </html>
